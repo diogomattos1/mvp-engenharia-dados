@@ -4,5 +4,5 @@ MVP Engenharia de Dados
 
 [Link para o Notebook com o MVP no GitHub](https://github.dev/diogomattos1/mvp-engenharia-dados/blob/2eb85845832ae4fa943641d9cdc571bc4b58a9fe/MVP%20Dados.ipynb)
 
-[Link paa baixar versão em PDF](https://github.com/diogomattos1/mvp-engenharia-dados/blob/main/MVP%20Engenharia%20de%20Dados%20-%20Diogo%20Mattos.pdf)
+[Link para baixar versão em PDF](https://github.com/diogomattos1/mvp-engenharia-dados/blob/main/MVP%20Engenharia%20de%20Dados%20-%20Diogo%20Mattos.pdf)
 
